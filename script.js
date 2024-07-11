@@ -15,16 +15,6 @@ page.from(".image1 img",{
     stagger:1
 
 })
-page.from("#image2",{
-    y:"-100vw",
-    duration:1
-
-})
-page.from("#image3",{
-    y:"-100vw",
-    duration:1,
-
-})
 page.from("#text h1",{
     x:"-100vw",
     duration:2,
